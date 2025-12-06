@@ -40,6 +40,11 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		261611A12ED84BB600D858D7 /* Playground */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Playground;
+			sourceTree = "<group>";
+		};
 		264C3E6C2ECF176B00DDAB09 /* UIKitTutorial */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
@@ -88,6 +93,7 @@
 		264C3E612ECF176B00DDAB09 = {
 			isa = PBXGroup;
 			children = (
+				261611A12ED84BB600D858D7 /* Playground */,
 				264C3E6C2ECF176B00DDAB09 /* UIKitTutorial */,
 				264C3E832ECF176C00DDAB09 /* UIKitTutorialTests */,
 				264C3E8D2ECF176C00DDAB09 /* UIKitTutorialUITests */,
@@ -121,6 +127,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				261611A12ED84BB600D858D7 /* Playground */,
 				264C3E6C2ECF176B00DDAB09 /* UIKitTutorial */,
 			);
 			name = UIKitTutorial;

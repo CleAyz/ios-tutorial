@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>UIKitTutorial.xcscheme_^#shared#^_</key>
+		<key>Operators (Playground).xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>UIKitTutorial.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>264C3E692ECF176B00DDAB09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>264C3E7F2ECF176C00DDAB09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>264C3E892ECF176C00DDAB09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
